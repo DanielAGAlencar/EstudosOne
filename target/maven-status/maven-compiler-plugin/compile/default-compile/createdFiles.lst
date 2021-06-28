@@ -1,0 +1,9 @@
+br\com\estudosone\service\AgendaService.class
+br\com\estudosone\config\CORSFilter.class
+br\com\estudosone\config\SwaggerConfig.class
+br\com\estudosone\controller\AgendaController.class
+br\com\estudosone\repository\AgendaRepository.class
+br\com\estudosone\App.class
+br\com\estudosone\config\OAuthSecurityConfiguration.class
+br\com\estudosone\constant\Constants.class
+br\com\estudosone\model\Agenda.class
